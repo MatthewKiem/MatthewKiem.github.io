@@ -1,0 +1,22 @@
+* {
+  background-color: #f8f9fa;
+  color: #323944;
+  font-family: 'Gudea', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+a {color: tomato;}
+a:hover {color: orangered;}
+
+#content, 
+#footer-content {
+  max-width: 700px;
+  margin: auto;
+}
+
+#content {margin-bottom: 1rem;}
+#footer-content (font-size:.8rem;}
+
+footer {
+  border-top: 1px solid black;
+  margin-top: 3rem;
+}
